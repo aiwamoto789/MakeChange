@@ -11,4 +11,5 @@ and cash tendered.
 #### Technologies Used
 java.lang.Math
 math.round()
+math.floor()
 #### Lessons Learned
